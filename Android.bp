@@ -21,6 +21,9 @@ cc_binary {
         mips: {
             enabled: false,
         },
+        riscv64: {
+            enabled: false,
+        },
         x86: {
             enabled: false,
         },
